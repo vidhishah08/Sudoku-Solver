@@ -1,1 +1,1 @@
-# Sudoku-Solver
+# This is a Python code that implements a graphical Sudoku solver interface with tkinter. Users input numbers into a 9x9 grid, with options to solve individual cells, clear entries, undo actions, and solve the entire puzzle. It utilizes a backtracking algorithm to find solutions and provides interactive functionality for Sudoku puzzle solving.
